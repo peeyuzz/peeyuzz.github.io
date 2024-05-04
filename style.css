@@ -1,0 +1,13 @@
+body {
+    line-height: 1.5;
+    font-size: 16px;
+    padding: 0 10px;
+    margin: 50px auto;
+    max-width: 650px;
+}
+
+.quotes {
+    text-align: center;
+    font-style: italic;
+    line-height: 1.1;
+  }
